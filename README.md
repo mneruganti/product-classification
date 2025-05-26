@@ -1,0 +1,3 @@
+## To install on your local device...
+Run:
+pip install -r requirements.txt
