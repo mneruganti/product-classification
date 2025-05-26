@@ -1,0 +1,21 @@
+# Bytecode cache
+__pycache__/
+
+# Virtual environment
+venv/
+
+# Model output
+*.pkl
+
+# Logs
+*.log
+
+# Notebook junk
+.ipynb_checkpoints/
+
+# Training output (from HuggingFace, etc.)
+results/
+
+# OS files
+.DS_Store
+Thumbs.db
